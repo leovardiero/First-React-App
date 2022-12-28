@@ -1,4 +1,10 @@
 {
-  "ecl.launchConfiguration": "not found",
-  "ecl.targetCluster": {}
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 }
